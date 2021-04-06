@@ -79,7 +79,7 @@ class SimpleFooter extends React.Component {
                       href="https://www.creative-tim.com?ref=adsr-footer"
                       target="_blank"
                     >
-                      Garfield Grant
+                      Allee McCoy
                     </NavLink>
                   </NavItem>
                   <NavItem>

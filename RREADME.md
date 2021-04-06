@@ -13,7 +13,7 @@ My Deployed Site: https://sleepy-banach-c1d9f1.netlify.app
 [x]Update the name, location, title, and education rows with your own info.
 [x]Add a personal headline. This should be the same as or similar to your headline on your LinkedIn profile.
 [x]Replace the numerical values and labels with something meaningful to you.
-[]Update the Nav, Header, and Footer:
+[x]Update the Nav, Header, and Footer:
 [x]Remove the “Components” dropdown menu.
 []Change the “Examples” menu to be titled simply “Menu”.
 []Within the menu link to a Profile page, and a Portfolio page. Remove other links.
